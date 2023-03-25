@@ -1,0 +1,6 @@
+1. Spring Web Application Architecture 작성
+--> 프레젠테이션 층 (Presentation Layer) , 비즈니스 로직 층 (Business Logic Layer) , 데이터 액세스 층 (Data Access Layer)
+--> 모델1 , 모델2 구조도 작성
+--> 계층형 아키텍처 구조도
+
+2.자바 코딩 컨벤션 작성
